@@ -6,7 +6,7 @@ window.onload = function() {
         transtable_cols = {0:'a',1:'b',2:'c',3:'d',4:'e',5:'f',6:'g', 7:'h'},
 
         element = document.getElementById('board'),
-        rectangle = null, size = null, border_size = null, square_size = null,
+        rectangle = null, size = null, border_size = 0; square_size = null,
 
         clickinfo = document.getElementById('clickinfo'),
         info_font_size = null;
