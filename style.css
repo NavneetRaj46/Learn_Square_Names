@@ -10,8 +10,8 @@ body {
     background-size: contain;
     width:calc(100vh - 11em);
     height:calc(100vh - 11em);
-    max-width:98vmin;
-    max-height:98vmin;
+    max-width:409px;
+    max-height:409px;
     display:inline-block;
 }
 
