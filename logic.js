@@ -2,8 +2,8 @@
 
 window.onload = function() {
 
-    let transtable_rows = {0:'8',1:'7',2:'6',3:'5',4:'4',5:'3',6:'2', 7:'1'},
-        transtable_cols = {0:'a',1:'b',2:'c',3:'d',4:'e',5:'f',6:'g', 7:'h'},
+    let transtable_rows = {0:'1',1:'2',2:'3',3:'4',4:'5',5:'6',6:'7', 7:'8'},
+        transtable_cols = {0:'h',1:'g',2:'f',3:'e',4:'d',5:'c',6:'b', 7:'a'},
 
         element = document.getElementById('board'),
         rectangle = null, size = null, border_size = null, square_size = null,
